@@ -18,4 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 They let you see at which commit the branch is created and how it relates to other commits and branches within the repository.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+Merging 2 branches allows the edits made in one branch to merge with the other branch (usually the master branch). This allows all previous commits to still be available from both branches. 
