@@ -21,3 +21,7 @@ They let you see at which commit the branch is created and how it relates to oth
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging 2 branches allows the edits made in one branch to merge with the other branch (usually the master branch). This allows all previous commits to still be available from both branches. 
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+The pros are that it is quicker and more efficient most of the time than manual. However, sometimes the conflicts that arise would be quicker resolved manually as people understand the meaning of the code.
