@@ -13,3 +13,7 @@ A fork is a way of copying a repository and is used via github. A clone lets you
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It lets you access any new changes done via the remote but the fetch also lets you see if anyone has made any changes to the remote.
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+
+You would have to transfer files back and forth with people or store them in a shared space. It woudl be easier as there wouldn't be such a learning curve by learning how to use the version control software. However, it would be hard to keep track of changes and harder to revert back to workign copies without saving multiple versions of all files.
