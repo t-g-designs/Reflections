@@ -8,4 +8,8 @@ You want to control the files you're working on. If you were collaborating with 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-A fork is a way of copying a repository and is used via github. A clone lets you download a copy of a repository to your local computer using git. A branch is a way of creating a different version of files that won't intefere with the main or other versions. It allows you to experiment without ruining your project.
+A fork is a way of copying a repository and is used via github. A clone lets you download a copy of a repository to your local computer using git. A branch is a way of creating a different version of files that won'tintefere with the main or other versions. It allows you to experiment without ruining your project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It lets you access any new changes done via the remote but the fetch also lets you see if anyone has made any changes to the remote.
