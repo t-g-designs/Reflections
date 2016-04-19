@@ -17,3 +17,7 @@ It lets you access any new changes done via the remote but the fetch also lets y
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 
 You would have to transfer files back and forth with people or store them in a shared space. It woudl be easier as there wouldn't be such a learning curve by learning how to use the version control software. However, it would be hard to keep track of changes and harder to revert back to workign copies without saving multiple versions of all files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to use a different branch if you wanted to try something new and experiment without altering the already working master version. The benefits are that you keep a working version but the drawback is that it can get quite confusing.
